@@ -87,3 +87,8 @@ After registration, user will be prompted to complete a "Skincare Analysis" to b
 2.) if New User, prompt to complete skincare analysis
 3.) completion of skincare analysis
 4.) listing of applicable products
+
+
+![Wireframe_1]("C:\Users\julie\sei\projects\SkincareQuiz\Wireframe_1.jpg")
+![Wireframe_2]("C:\Users\julie\sei\projects\SkincareQuiz\Wireframe_2.jpg")
+![ERD]("C:\Users\julie\sei\projects\SkincareQuiz\ERD.png")
